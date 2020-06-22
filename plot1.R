@@ -1,4 +1,0 @@
-#Histogram
-hist(new_table$Global_active_power, main="Global Active Power", xlab= "Global Active Power (kilowatts)", col="blue")
-dev.copy(png, "plot1.png", width=480, height=480)
-dev.off()
